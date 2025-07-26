@@ -19,35 +19,35 @@ A simple backend API application to manage products and stock for a small busine
 ### ✅ User Registration `/register`
 Registers a new user with a username and password.
 
-![register](https://github.com/user-attachments/assets/f3e8b800-a327-49ba-88d0-85b5354f2212)
+![register](https://github.com/user-attachments/assets/dbaad06e-cda2-4edb-b1a1-911206088b28)
 
 ---
 
 ### 🔐 Login `/login`
 Generates a JWT token upon successful authentication.
 
-![login](https://github.com/user-attachments/assets/721462fe-b5fd-4ffd-95d0-3c7d0594f5aa)
+![login](https://github.com/user-attachments/assets/7d9f6d89-60d5-4f1b-9d89-828dc9b0233f)
 
 ---
 
 ### 📤 Add Product `/products`  
 Requires authentication. Adds a new product to inventory.
 
-![add_product](https://github.com/user-attachments/assets/8fbcc88d-e725-43f6-9107-b8c67490ffa2)
+![add_product](https://github.com/user-attachments/assets/fd0c2012-e950-4e1c-9f84-911b11d584e2)
 
 ---
 
 ### 🔁 Update Quantity `/products/{id}/quantity`
 Modifies the quantity of an existing product.
 
-![quantity](https://github.com/user-attachments/assets/bb48f174-a3ae-4b5f-a31a-056b6d5c6573)
+![quantity](https://github.com/user-attachments/assets/56392ae3-ddcb-43f1-b018-7450d646fb85)
 
 ---
 
 ### 📥 Get All Products `/products`
 Fetches the list of all products in inventory.
 
-![get_product](https://github.com/user-attachments/assets/d6f5ea5c-c997-4f1d-bd86-7b0976975b61)
+![get_product](https://github.com/user-attachments/assets/35101a54-decc-4eb8-9b31-e6e15c98f8b2)
 
 ---
 
