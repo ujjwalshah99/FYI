@@ -19,35 +19,35 @@ A simple backend API application to manage products and stock for a small busine
 ### ✅ User Registration `/register`
 Registers a new user with a username and password.
 
-![Register](WhatsApp_Image_2025-07-26_at_11.00.32_AM_(2)[1].jpeg)
+![register](https://github.com/user-attachments/assets/f3e8b800-a327-49ba-88d0-85b5354f2212)
 
 ---
 
 ### 🔐 Login `/login`
 Generates a JWT token upon successful authentication.
 
-![Login](WhatsApp_Image_2025-07-26_at_11.00.32_AM_(1)[1].jpeg)
+![login](https://github.com/user-attachments/assets/721462fe-b5fd-4ffd-95d0-3c7d0594f5aa)
 
 ---
 
 ### 📤 Add Product `/products`  
 Requires authentication. Adds a new product to inventory.
 
-![Add Product](WhatsApp_Image_2025-07-26_at_11.00.34_AM[1].jpeg)
+![add_product](https://github.com/user-attachments/assets/8fbcc88d-e725-43f6-9107-b8c67490ffa2)
 
 ---
 
 ### 🔁 Update Quantity `/products/{id}/quantity`
 Modifies the quantity of an existing product.
 
-![Update Quantity](WhatsApp_Image_2025-07-26_at_11.00.35_AM[1].jpeg)
+![quantity](https://github.com/user-attachments/assets/bb48f174-a3ae-4b5f-a31a-056b6d5c6573)
 
 ---
 
 ### 📥 Get All Products `/products`
 Fetches the list of all products in inventory.
 
-![Get Products](WhatsApp_Image_2025-07-26_at_11.00.34_AM_(2)[1].jpeg)
+![get_product](https://github.com/user-attachments/assets/d6f5ea5c-c997-4f1d-bd86-7b0976975b61)
 
 ---
 
