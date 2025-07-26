@@ -68,7 +68,7 @@ Fetches the list of all products in inventory.
 ├── controllers/     # Business logic
 ├── middleware/      # Auth middleware
 ├── config/          # DB connection, env config
-├── app.js           # Entry point
+├── server.js           # Entry point
 ```
 
 ---
